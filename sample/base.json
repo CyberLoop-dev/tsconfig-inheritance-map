@@ -1,0 +1,9 @@
+{
+  // Shared defaults for the demo project
+  "compilerOptions": {
+    "target": "ES2022",
+    "strict": true,
+    "noEmit": true,
+    "moduleResolution": "Bundler"
+  }
+}
